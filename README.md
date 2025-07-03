@@ -34,10 +34,10 @@
 | 🎨 Custom UI                     | Gradient backgrounds, styled layout |
 
 
-
-```
 ![image](https://github.com/user-attachments/assets/366e08ad-44de-4c64-a840-e5d8e22b9f78)
 ![image](https://github.com/user-attachments/assets/883e4d65-36cd-47f0-a94a-2012e8d7dc8f)
 ![image](https://github.com/user-attachments/assets/f0dad204-151f-4c50-8cef-9b611bc0f403)
+```
+
 
 
