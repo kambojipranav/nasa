@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/NASA-Climate--NLP-blueviolet?style=for-the-badge&logo=streamlit" alt="badge"/>
-</p>
+
 
 <h1 align="center">🌍 PRANAV's Climate Change NLP App</h1>
 
@@ -42,11 +40,11 @@
 
 ```bash
 git clone https://github.com/pranav-ml-climate/streamlit-nasa-climate-nlp.git
-cd streamlit-nasa-climate-nlp
+
 ![image](https://github.com/user-attachments/assets/73907ffe-2526-4063-b59c-7b19163b1d19)
-pip install -r requirements.txt
+
 ![image](https://github.com/user-attachments/assets/24ebc7f7-c63b-4517-97e3-fba26e89709e)
-streamlit run app.py
+
 ![image](https://github.com/user-attachments/assets/cb43a525-42b0-42e5-9450-c6d2f1100aee)
 ![image](https://github.com/user-attachments/assets/9eaecaa9-4dab-4e9a-bef3-c4d283a4b4ef)
 ```
