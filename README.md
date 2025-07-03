@@ -23,7 +23,7 @@ What Does three labels tell ?
 ![image](https://github.com/user-attachments/assets/796da5d5-efbb-4566-a1e9-c99b29269224)
 
 
-They are lable1 , lable2 , lable 3
+They are label 0, lable1 , lable2
 
 ## ✨ Features
 
