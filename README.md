@@ -35,23 +35,6 @@
 | 📧 Email Integration             | Send results to scientists or stakeholders |
 | 🎨 Custom UI                     | Gradient backgrounds, styled layout |
 
----
-
-## 📸 Screenshots
-
-### 🌈 Home + Filters
-![home](https://github.com/pranav-ml-climate/screenshots/blob/main/home.png)
-
-### 📈 Topic Trends by Sentiment
-![trend](https://github.com/pranav-ml-climate/screenshots/blob/main/trend_sentiment.png)
-
-### 🔮 LSTM Forecast Output
-![forecast](https://github.com/pranav-ml-climate/screenshots/blob/main/forecast.png)
-
-### 🧠 Topic Clusters
-![topics](https://github.com/pranav-ml-climate/screenshots/blob/main/topics.png)
-
----
 
 ## 🚀 How to Run Locally
 
@@ -66,6 +49,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ![image](https://github.com/user-attachments/assets/cb43a525-42b0-42e5-9450-c6d2f1100aee)
 ![image](https://github.com/user-attachments/assets/9eaecaa9-4dab-4e9a-bef3-c4d283a4b4ef)
-
+```
 
 
