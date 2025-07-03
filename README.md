@@ -2,9 +2,6 @@
 
 <h1 align="center">🌍 PRANAV's Climate Change NLP App</h1>
 
-<p align="center">
-  <img src="https://github.com/pranav-ml-climate/banner-image/blob/main/climate-banner.png" alt="banner" width="90%">
-</p>
 
 ---
 
